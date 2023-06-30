@@ -1,4 +1,4 @@
 # SiteResponsivoSenai
- Site de Psicologo Responsivo Senai
+ Site de Psicólogo Responsivo Senai
 
  https://eriveltonssa.github.io/SiteResponsivoSenai/
